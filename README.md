@@ -1,2 +1,1 @@
-[Reflection]([Reflection](https://docs.google.com/document/d/1CTIZhI8XWuQte-lv-ELLft-6Op5GoVnJX49_7dwdg0g/edit?usp=sharing))
-Copy and paste the link for the reflection
+[Reflection](https://docs.google.com/document/d/1CTIZhI8XWuQte-lv-ELLft-6Op5GoVnJX49_7dwdg0g/edit?usp=sharing)
