@@ -1,0 +1,20 @@
+Part Name,AssembledController
+Working BOM,"as of March 18, 2026 at 2:19:02 AM UTC"
+Exported by,ethan.gibson@ontariotechu.net
+Time of Export,"2:19 AM Mar 18, 2026"
+
+,Part Number,Part Name,Revision/Version,Description,Item Number,Lifecycle,Revision,State,Quantity,Material,Change Order
+,2026-03-17-21-30-12-142,AssembledController,,,,,,Working,1,,
+1,2026-03-04-11-21-45-880,_InitialController,,,,,,Working,1,,
+1.1,2026-03-17-21-29-25-774,JoystickCover,,,,,,Working,1,Steel,
+1.2,2026-03-17-21-29-25-761,BackChassis,,,,,,Working,1,Steel,
+1.3,2026-03-17-21-29-25-729,A_Button,,,,,,Working,1,Steel,
+1.4,2026-03-17-21-29-25-769,B-Button,,,,,,Working,1,Steel,
+1.5,2026-03-17-21-29-25-751,FrontPlate,,,,,,Working,1,Steel,
+2,InitialsController 1,_InitialsControllerCircuitBoard,,KiCad electronic assembly,,,,Working,1,,
+2.1,InitialsController_PCB,InitialsController_PCB,,,,,,Working,1,Steel,
+2.2,seeeduino_xiao_rp2040,seeeduino_xiao_rp2040,,,,,,Working,1,,
+2.2.1,InitialsController 1.3.1,InitialsController 1.3.1,,,,,,Working,1,Steel,
+2.3,PNT_psp1000,PNT_psp1000,,,,,,Working,1,Steel,
+2.4,R_Axial_DIN0516_L15.5mm_D5.0mm_P25.40mm_Horizontal,R_Axial_DIN0516_L15.5mm_D5.0mm_P25.40mm_Horizontal,,,,,,Working,4,Steel,
+2.5,SW_Push_1P1T_NO_CK_KSC6xxJ,SW_Push_1P1T_NO_CK_KSC6xxJ,,,,,,Working,4,Steel,
